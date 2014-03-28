@@ -1,0 +1,18 @@
+/**
+ *    @name:       ./ball.css
+ *    @author:     unasm<1264310280@qq.com>
+ *    @since :     2014-03-28 10:40:28
+ */
+
+input[type = 'text'] ,input[type = 'number']:valid{
+    color:green;
+}
+
+input[type = 'text'] ,input[type = 'number']:invalid{
+    color:red;
+}
+form{
+    border-radius:4px;
+    background-color:brown;
+    width:500px;
+}
