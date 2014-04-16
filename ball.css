@@ -9,7 +9,6 @@ input[type = 'text'] ,input[type = 'number']:valid{
 }
 
 input[type = 'text'] ,input[type = 'number']:invalid{
-    color:red;
 }
 form{
     border-radius:4px;
